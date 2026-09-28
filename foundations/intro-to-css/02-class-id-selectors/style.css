@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+p {
+	background-color: hsl(360, 91%, 69%);
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#id {
+	color: hsl(205, 100%, 21%);
+	font-size: 36px;
+}
+
+.class .cool {
+	font-size: 24px;
+}
+
+#idAgain {
+	background-color: hsl(158, 58%, 62%);
+	font-size: 24px;
+	font-weight: bold;
+}
+
